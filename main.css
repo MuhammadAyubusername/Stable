@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 100%;
+}
+.container{
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    padding:10px ;
+}
+.box1{
+    display: flex; 
+    gap: 10px;
+}
+.box1 p{
+    color:  #593F0D;
+}
+.box2{
+    display: flex; 
+    gap: 10px;
+    align-items: center;
+}
+.box2 p{
+    color:  #593F0D;
+}
+.box3{
+    display: flex;
+    gap: 10px; 
+}
+.box3 p{
+    color:  #593F0D;
+}
+
+.box3 button{
+    width: 220px;
+    height: 50px;
+    background: linear-gradient(274.27deg, rgba(255, 255, 255, 0) -14.6%, rgba(255, 255, 255, 0.39) 39.52%, rgba(255, 255, 255, 0) 110.6%), linear-gradient(263.81deg, #FFC771 10.32%, #FFC858 98.17%);
+    box-shadow: inset 0px 2px 15px rgba(255, 255, 255, 0.41), inset 19px 0px 25px rgba(255, 255, 255, 0.11);
+    border: none;
+    border-radius: 10px;
+    color:#835D13 ;
+}
+@media(max-width:600){
+}
+.katta{
+    width:100% ;
+    height: 100vh;
+    background-size: 100% 100%;
+    background-image: url(./orqa\ fon.jpg );
+    background-repeat: no-repeat;
+
+}
+.mayda{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.h1{
+    color: #593F0D;
+}
+.oq{
+    color:#FFC771;
+}
+.mayda p{
+    margin-top: 50px;
+    color: #593F0D;
+    font-size: 20px;
+    
+}
+.mayda button{
+    width: 300px;
+    height: 75px;
+    background-color: #FFC771;
+    border-radius: 20px;
+    border: none;
+    color: #835D13;
+    margin-top: 39px;
+}
+.qism-3{
+    width: 850px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.yozuv{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.qora{
+    color: #FFC771;
+}
+.yashil{
+    color: #FFC771;
+}
+.rasm-1{
+    background-image:url(./Rectangle\ 115\ \(1\).png);
+    width: 410px;
+    height: 410px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.h4{
+   color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.qism-3 button{
+    width: 250px;
+    height: 60px;
+    border-radius: 15px; 
+    background-color: #FFC771;
+    border: none;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.rasm3ta{
+    width: 320px;
+    height: 620px;
+    border: 1px solid rgb(134, 131, 131);
+    padding: 30px;
+}
+.rasm3ta button{
+    width: 280px;
+    height: 68.25px;
+    border: none;
+    border-radius: 15px;
+    background-color:#FFC771 ;
+    margin-bottom: 40px;
+    margin-top: 180px;
+}
+.qism-4{
+    display: flex;
+    justify-content: space-between;
+}
+.container-1{
+    width:1000px ;
+    display: flex;
+    justify-content: space-between;
+    margin:0 auto;
+}
+
